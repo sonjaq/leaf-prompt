@@ -1,3 +1,5 @@
+Note: You may need to hack this for your own self to set paths correctly. Changes in `prompt.sh` should be the only ones required.
+
 # Instructions
 
 1. Clone this checkout to some spot on your machine, like `~/scripts`
@@ -7,5 +9,7 @@
 	- `source ~/scripts/leaf-prompt/prompt.sh`	
 3. Open a new terminal window, or `source ~/.bash_profile` to see the changes
 
+Original source for the git companion scripts:
+ - https://github.com/git/git/tree/master/contrib/completion
 
 ![leaf-prompt-in-action](img/screenshot.png?raw=true "leaf-prompt in action")
